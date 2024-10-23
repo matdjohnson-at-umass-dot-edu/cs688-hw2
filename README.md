@@ -10,6 +10,7 @@ To run the code of the assignment, create a virtual environment, install the req
 ```bash
 # example program execution as called from a bash shell
 python3 -mvenv .
+source bin/activate
 pip install -r requirements.txt
 python3 main.py
 ```
